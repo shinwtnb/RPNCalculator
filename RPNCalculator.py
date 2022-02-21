@@ -9,7 +9,7 @@ from RPN import RPN
 from mode import Mode
 
 
-# definition global variables and class
+# definition global variables and classes
 controlls = {}
 inputBuffer = ''
 numericalKeys = {'key' + str(i) for i in range(10)}
